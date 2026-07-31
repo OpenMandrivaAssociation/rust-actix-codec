@@ -5,8 +5,8 @@
 %global crate actix-codec
 
 Name:           rust-%{crate}
-Version:        0.2.0
-Release:        2%{?dist}
+Version:        0.5.2
+Release:        1%{?dist}
 Summary:        Utilities for encoding and decoding frames
 
 # Upstream license specification: MIT/Apache-2.0
